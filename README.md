@@ -19,12 +19,26 @@
 
 ---
 
+## 🧩 Projetos em Destaque
+
+<div align="center">
+
+| 💻 Projeto | 🧾 Descrição | 🔗 Link |
+|:--|:--|:--|
+| **Portfolio_Pessoal** | Meu portfólio pessoal desenvolvido com HTML e CSS. | [Acessar](https://github.com/ERFS-Enzo/Portfolio_Pessoal) |
+| **pgDB** | Scripts e estrutura de banco de dados PostgreSQL. | [Acessar](https://github.com/ERFS-Enzo/pgDB) |
+| **NetBeansProjects** | Projetos em Java desenvolvidos no NetBeans. | [Acessar](https://github.com/ERFS-Enzo/NetBeansProjects) |
+
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzorossi&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzorossi&layout=compact&theme=transparent&hide_border=true)
+![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ERFS-Enzo&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERFS-Enzo&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
@@ -45,7 +59,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=enzorossi&color=blue&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=ERFS-Enzo&color=blue&style=for-the-badge)
 
 </div>
 
